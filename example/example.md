@@ -4,7 +4,7 @@ To use the lints add a dev dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  pedantic_jagi: ^0.0.1
+  pedantic_jagi: ^0.0.2
 ```
 
 Then add an include in your `analysis_options.yaml` file:
@@ -20,5 +20,5 @@ To avoid this, specify a version of a dev dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  pedantic_jagi: 0.0.1
+  pedantic_jagi: 0.0.2
 ```

@@ -1,5 +1,5 @@
 name: pedantic_jagi
-version: 0.0.1
+version: 0.0.2
 description: >-
   My own Dart Linter rules corresponding to the guidelines in Effective Dart, Pedantic + personal (the strictest you can get).
 homepage: https://github.com/adrianjagielak/pedantic_jagi
